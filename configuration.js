@@ -1,7 +1,7 @@
 var Config = {
     title: "SciKit-GStat",
     // put the url of the deployed application here
-    url: "https://hydrocode-de.github.io/sample-lecture-python",
+    url: "https://mmaelicke.github.io/egu2020",
     navigation: [
         {
             label: "Home",
