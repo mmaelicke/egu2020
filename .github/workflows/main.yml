@@ -48,7 +48,7 @@ jobs:
         mv configuration.js ./dist/configuration.js
         [ -d ./static ] && mv ./static/* ./dist/static/* 
         [ -f ./index.md ] && mv index.md ./dist/static/index.md
-        [ -d ./img ] && mv ./img ./dist/img
+        #[ -d ./img ] && mv ./img ./dist/img
     
     # Deploy to Github Pages
     - name: Deploy
