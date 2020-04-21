@@ -25,7 +25,8 @@ var Config = {
             navigation: [
                 {
                     label: "EGU 2020 Showcase",
-                    link: "egu_2020.html"
+                    link: "egu_2020.html",
+                    binder: "https://mybinder.org/v2/gh/mmaelicke/egu2020/master?filepath=egu_2020.ipynb"
                 }
             ]
         },
