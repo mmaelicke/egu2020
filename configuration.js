@@ -2,6 +2,9 @@ var Config = {
     title: "SciKit-GStat",
     // put the url of the deployed application here
     url: "https://mmaelicke.github.io/egu2020",
+    homeUrl: "https://github.com/mmaelicke/scikit-gstat",
+    theme: "lux",
+    accent: "secondary",
     navigation: [
         {
             label: "Home",
