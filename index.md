@@ -16,3 +16,9 @@ It is deployed using [notebook-classroom](https://github.com/hydrocode-de/notebo
 It is also possible to load the script directly in [binder](https://mybinder.org/v2/gh/mmaelicke/egu2020/master) as an executable version.
 
 The SciKit-GStat Github repository can be found [here](https://github.com/mmaelicke/scikit-gstat) and the documentation can be found [here](https://mmaelicke.github.io/scikit-gstat).
+
+##
+
+I made a screen recording of the presentation above:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JH1J8xRkbO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
