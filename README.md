@@ -17,3 +17,8 @@ It is also possible to load the script directly in [binder](https://mybinder.org
 
 The SciKit-GStat Github repository can be found [here](https://github.com/mmaelicke/scikit-gstat) and the documentation can be found [here](https://mmaelicke.github.io/scikit-gstat).
 
+## Video
+
+Watch a screen recording of the online material
+
+[![](https://img.youtube.com/vi/JH1J8xRkbO4/0.jpg)](https://www.youtube.com/watch?v=JH1J8xRkbO4)
